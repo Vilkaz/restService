@@ -1,0 +1,1 @@
+$ docker build --build-arg DEPENDENCY=build/dependency -t springio/gs-spring-boot-docker .
